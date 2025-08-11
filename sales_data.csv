@@ -1,0 +1,41 @@
+date,product,category,sales
+
+2025-01-01,Chocolate,Food,378
+
+2025-01-01,Chips,Food,157
+
+2025-01-01,Juice,Beverages,238
+
+2025-01-01,Chocolate,Food,90
+
+2025-01-01,Toothpaste,Personal Care,65
+
+2025-01-01,Tea,Beverages,451
+
+2025-01-01,Chocolate,Food,327
+
+2025-01-01,Shampoo,Personal Care,476
+
+2025-01-02,Tea,Beverages,375
+
+2025-01-02,Biscuits,Food,351
+
+2025-01-02,Shampoo,Personal Care,481
+
+2025-01-02,Soap,Personal Care,141
+
+2025-01-02,Chocolate,Food,263
+
+2025-01-02,Shampoo,Personal Care,357
+
+2025-01-02,Juice,Beverages,464
+
+2025-01-02,Chips,Food,228
+
+2025-01-03,Chocolate,Food,226
+
+2025-01-03,Shampoo,Personal Care,235
+
+2025-01-03,Tea,Beverages,211
+
+2025-01-03,Biscuits,Food,401
